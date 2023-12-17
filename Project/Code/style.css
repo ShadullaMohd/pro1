@@ -1,0 +1,29 @@
+.mainContainer{
+    width: 50%;
+    align-items: center;
+    margin-left: 27%;
+    background-color: #4088bf;
+}
+
+#mainheading{
+    text-align: center;
+}
+
+.nav{
+    background-color: aqua;
+    height: 4em;
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+
+}
+.home,.Gallery,.ContactUs,.OurWork{
+    background-color: rgb(21, 159, 104);
+    padding-top: 15px;
+   width: 50em;
+    
+    top: 22px;
+    position: relative;
+    border-radius: 15px;
+    width: 50px;
+}
